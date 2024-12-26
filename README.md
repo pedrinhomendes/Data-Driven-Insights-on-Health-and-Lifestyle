@@ -11,7 +11,7 @@ In this project, I performed a statistical analysis on the 'Body Signal of Smoki
 
 Source: [Kaggle](smoking.csv)
 Format: CSV
-Size: 70 rows, 4 columns
+Size: 55692 rows, 27 columns
 
 ## Tools and Libraries
 - Python
