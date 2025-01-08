@@ -21,7 +21,7 @@ In this project, I performed a statistical analysis on the 'Body Signal of Smoki
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone git@github.com:pedrinhomendes/Publer-Analysis-Report.git
+   git clone git@github.com:pedrinhomendes/Data-Driven-Insights-on-Health-and-Lifestyle.git
 
 2. Install dependencies:
 
