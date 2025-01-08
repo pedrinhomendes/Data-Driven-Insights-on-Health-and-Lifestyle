@@ -9,35 +9,33 @@ In this project, I performed a statistical analysis on the 'Body Signal of Smoki
 
 ## Dataset
 
-Source: [Kaggle](smoking.csv)
-Format: CSV
-Size: 55692 rows, 27 columns
+- Source: [Kaggle](smoking.csv)
+- Format: CSV
+- Size: 55692 rows, 27 columns
 
 ## Tools and Libraries
+- Jupyter Notebook
 - Python
   - Pandas
   - Scipy
   - Numpy
   - Matplotlib
   - Seaborn
+    
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:pedrinhomendes/Publer-Analysis-Report.git
 
-## Visualizations
-- Distributions
-    - Age
-    - Weight
-    - Height
-    - Smoker and Non-Smokers
-- Box plot:
-    - Smoker's age
-- Line plot
-    - Smoking trend by Gender and Age
-- Scatter plot
-    - Pearson Correlation: Fasting Blood Sugar vs Triglyceride
-- Heatmap
-    - Phi-Coefficient: Smoking vs Gender
-- Box plot
-    - Point-Biserial: Triglyceride levels and Smoking Status
+2. Install dependencies:
 
+## Usage
+
+## Key Findings 
+
+## License
+This project is licensed under the MIT License. See the [LICENSE]() file for details.
+   
 
 
 
