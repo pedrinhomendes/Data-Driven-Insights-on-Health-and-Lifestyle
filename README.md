@@ -32,6 +32,9 @@ In this project, I performed a statistical analysis on the 'Body Signal of Smoki
    ```bash
    jupyter notebook Stats_Project.ipynb
 ## Key Findings 
+- The mean fasting blood sugar level of smokers was greater than 100mg/dL (Maximum Recommended by World Health Organization)
+- The triglyceride level of smokers was greater than 150mg/dL (Maximum Recommended by World Health Organization)
+- There is a consistent pattern in the positive correlations of smokers' health outcomes, indicating higher health risks for these individuals.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/pedrinhomendes/Data-Driven-Insights-on-Health-and-Lifestyle/blob/main/LICENSE) file for details.
