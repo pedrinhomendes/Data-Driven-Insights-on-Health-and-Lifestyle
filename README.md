@@ -24,7 +24,9 @@ In this project, I performed a statistical analysis on the 'Body Signal of Smoki
    git clone git@github.com:pedrinhomendes/Data-Driven-Insights-on-Health-and-Lifestyle.git
 
 2. Install dependencies:
-
+  ```bash
+  pip pip install -r requirements.txt
+  ```
 ## Usage
 1. Open the Jupyter Notebook:
    ```bash
